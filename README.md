@@ -38,7 +38,7 @@ Welcome to my GitHub space! I am a passionate software development student focus
 ### 📊 Performance Statistics & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadikramkamalludin&show_icons=true&theme=tokyonight" alt="Ahmad's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadikramkamalludin&show_icons=true&theme=tokyonight" alt="Ahmad's GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadikramkamalludin&theme=tokyonight" alt="Ahmad's GitHub Streak" height="150"/>
 </div>
 
@@ -48,9 +48,7 @@ Welcome to my GitHub space! I am a passionate software development student focus
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadikramkamalludin/ahmadikramkamalludin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadikramkamalludin/ahmadikramkamalludin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmadikramkamalludin/ahmadikramkamalludin/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman contribution graph animation" src="https://raw.githubusercontent.com/ahmadikramkamalludin/ahmadikramkamalludin/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
